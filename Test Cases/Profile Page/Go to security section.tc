@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Go to security section in profile page</description>
+   <name>Go to security section</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4e62d485-870f-4b9c-92a4-0b934ed9597b</testCaseGuid>
+</TestCaseEntity>

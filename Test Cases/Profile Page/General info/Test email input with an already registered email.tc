@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test email input with an already registered email</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9ee83f3d-dbd0-4550-8892-0bf5cc527e92</testCaseGuid>
+</TestCaseEntity>

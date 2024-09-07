@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test making a payment for a course in the cart</description>
+   <name>Test product (course) payment</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f76116c7-eed8-489e-afa0-7b43fdcf6484</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test input file for upload image profile</description>
+   <name>Test input file</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9a1678fe-5f54-4238-a47d-306fb37113d1</testCaseGuid>
+</TestCaseEntity>

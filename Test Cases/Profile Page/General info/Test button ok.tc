@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test button ok on modal confirmation</description>
+   <name>Test button ok</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>32ce8505-6c6e-4e2e-984a-6fdb504c5154</testCaseGuid>
+</TestCaseEntity>
